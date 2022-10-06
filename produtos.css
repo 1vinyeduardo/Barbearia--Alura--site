@@ -88,6 +88,8 @@ footer {
 	padding: 40px 0;
 }
 
-.copyrigh {
-	color: white;
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
 }
